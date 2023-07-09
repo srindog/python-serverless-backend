@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 boto3 = "*"
 flask = "*"
+pytest = "*"
+behave = "*"
 
 [dev-packages]
 
